@@ -12,14 +12,16 @@ https://www.facebook.com/ValhallenRagnarok/
 
 #Requisitos
 1. Tener un PC Windows.
-2. Tener Ragnarok Online al menos actualizado hasta Noviembre de 2015.
-3. Tener la carpeta "data" vacia. Puedes borrar su contenido, puedes encontrar esta carpeta en donde tienes el juego instalado.
+2. Tener un programa GIT para descargar todo el contenido. (Recomiendo TortoiseGIT)
+3. Tener Ragnarok Online al menos actualizado hasta Noviembre de 2015.
+4. Tener la carpeta "data" vacia. Puedes borrar su contenido, puedes encontrar esta carpeta en donde tienes el juego instalado.
 En caso que no la tengas, esta bien.
 
 #Forma de uso
 1. Deberás compilar rAthena utilizando Visual Studio Community 2015.
 Descargar aquí:
 https://www.visualstudio.com/es/post-download-vs/?sku=community&clcid=0xc0a&telem=ga
+. Si no sabes como más abajo esta una mini guía.
 
 2. Deberás abrir rAsql con "mysql_start.bat", precionar cualquier tecla y aceptar el siguiente mensaje con "Yes", luego aparecerá una ventana con el "Session Manager", dale a "New" y ingresa los siguiente User: ragnarok  password: ragnarok preciona "Open" y dale a "Yes". Listo, ahora esa ventana dejala minimizada y no la cierres si trabajas en el servidor local.
 
