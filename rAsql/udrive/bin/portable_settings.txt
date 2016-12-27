@@ -1,4 +1,4 @@
-LastSessions<|||>1<|||>rAthena
+LastSessions<|||>1<|||>
 LastActiveSession<|||>1<|||>rAthena
 DoUsageStatistics<|||>3<|||>1
 SessionManager_WindowWidth<|||>3<|||>510
