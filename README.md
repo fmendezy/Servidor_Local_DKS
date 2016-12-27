@@ -1,5 +1,9 @@
-# LocalServer_Pruebas
-Un servidor local pre-configurado por mi, para que los nuevos miembros del equipo Valhallen Ragnarok puedan practicar tranquilamente.
+# Servidor Local de Pruebas Pre-configurado - vRO
+Un servidor local pre-configurado por mi, para que los nuevos miembros del equipo Valhallen Ragnarok puedan practicar y adentrarse al mundo de *Athena.
+Estos archivos estan compartidos de forma publica, sin embargo estan destinados principalmente para el Staff de Valhallen Ragnarok.
+https://www.facebook.com/ValhallenRagnarok/
+* Si detectas algún error o problema te agradecería pudieras informarlo.
+- ¡Gracias por preferir mi trabajo!
 
 #Incluye
 - Cliente para el juego.
@@ -17,8 +21,7 @@ En caso que no la tengas, esta bien.
 Descargar aquí:
 https://www.visualstudio.com/es/post-download-vs/?sku=community&clcid=0xc0a&telem=ga
 
-2. Deberás abrir rAsql con "mysql_start.bat", esta todo ya configurado solo acepta hasta que se abra el programa y dejalo minimizado.
-Nota: No lo cierres si vas a trabajar en tu servidor local.
+2. Deberás abrir rAsql con "mysql_start.bat", precionar cualquier tecla y aceptar el siguiente mensaje con "Yes", luego aparecerá una ventana con el "Session Manager", dale a "New" y ingresa los siguiente User: ragnarok  password: ragnarok preciona "Open" y dale a "Yes". Listo, ahora esa ventana dejala minimizada y no la cierres si trabajas en el servidor local.
 
 3. En la carpeta rAthena iniciaremos el emulador abriendo el archivo "runserver.bat", espera que carguen las 3 consolas estas representan el char, login y map server.
 Nota: No lo cierres si vas a trabajar en tu servidor local, solo cierralas cuando termines de trabajar.
