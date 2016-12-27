@@ -34,6 +34,12 @@ La cuenta por defecto es:
 
 Nota: Esta habilitado el doble login y la posibilidad de crearte cuentas con _F o _M desde la ventana de inicio de sesión.
 
+# ¿Como compilar?
+1. Una vez teniendo instalado Visual Studio Community 2015, vas a la carpeta de tu rAthena, abrir el archivo "rAthena-15.sln" (Se abrirá con el programa Visual Studio).
+2. En la parte superior verás las opciones en un menu desplegable "Debug" y a su costado derecho  "Win32", cambia Debug por "Release".
+3. En la ventana de soluciones, a la izquierda normalmente, hacer click derecho con el raton en "Solution 'rAthena-15' (4 Projects)" y hacer click en "Build Solution", con esto compilaras el emulador por primera vez. Si en el futuro vuelves a compilar, precionas siempre "Rebuild Solution"
+4.Si el proceso de compilación es satisfactorio, tendrás una notificación de que tres nuevos archivos .EXE estarán en la carpeta raiz de tu emulador rAthena. 
+
 # Más?
 ¿Dudas?, ¿Consultas? Escribeme en mi facebook:
 https://www.facebook.com/Darkness.vRO/
