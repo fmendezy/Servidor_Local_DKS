@@ -1,0 +1,14 @@
+161227 17:11:46 [Note] \bin\mysqld-opt.exe: ready for connections.
+Version: '5.0.67-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+161227 17:12:01 [Note] \bin\mysqld-opt.exe: Normal shutdown
+
+161227 17:12:01 [Note] \bin\mysqld-opt.exe: Shutdown complete
+
+161227 17:12:03 [Note] \bin\mysqld-opt.exe: ready for connections.
+Version: '5.0.67-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+161227 17:15:34 [Note] \bin\mysqld-opt.exe: Normal shutdown
+
+161227 17:15:34 [Note] \bin\mysqld-opt.exe: Shutdown complete
+
+161227 17:35:30 [Note] \bin\mysqld-opt.exe: ready for connections.
+Version: '5.0.67-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
