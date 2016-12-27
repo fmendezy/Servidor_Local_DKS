@@ -1,0 +1,3 @@
+// Conf.
+login_port: 6900
+new_account: yes

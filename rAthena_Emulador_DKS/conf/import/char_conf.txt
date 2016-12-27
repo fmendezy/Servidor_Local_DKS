@@ -1,0 +1,10 @@
+// Conf.
+userid: s1
+passwd: p1
+login_ip: 127.0.0.1
+login_port: 6900
+char_ip: 127.0.0.1
+char_port: 6121
+
+// Para iniciar y hacer pruebas, sin complicaciones ;)
+pincode_enabled: no
