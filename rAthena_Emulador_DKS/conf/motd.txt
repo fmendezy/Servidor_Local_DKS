@@ -1,0 +1,2 @@
+// Internal default is limited to 128 lines.  If you need more, you will need to modify the MOTD_LINE_SIZE definition in pc.c
+¡Bienvenidos al Servidor Local de Darkness! - Practica, aprende y crece aquí en tu taller personal!
