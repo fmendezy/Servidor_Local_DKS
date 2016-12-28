@@ -32,8 +32,8 @@ Nota: No lo cierres si vas a trabajar en tu servidor local, solo cierralas cuand
 La cuenta por defecto es:
 
 # Datos de Acceso dentro del Juego
-- USUARIO: GM
-- CONTRASEÑA: GM
+- USUARIO: GM01
+- CONTRASEÑA: GM01
 - CORREO: a@a.com
 - NIVEL DE GM: 99
 
