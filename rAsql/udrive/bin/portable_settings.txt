@@ -1,4 +1,4 @@
-LastSessions<|||>1<|||>
+LastSessions<|||>1<|||>rAthena
 LastActiveSession<|||>1<|||>rAthena
 DoUsageStatistics<|||>3<|||>1
 SessionManager_WindowWidth<|||>3<|||>510
@@ -82,6 +82,6 @@ Servers\rAthena\Port<|||>1<|||>3306
 Servers\rAthena\NetType<|||>3<|||>0
 Servers\rAthena\Compressed<|||>3<|||>1
 Servers\rAthena\lastUsedDB<|||>1<|||>ragnarok
-Servers\rAthena\ConnectCount<|||>3<|||>1
+Servers\rAthena\ConnectCount<|||>3<|||>2
 Servers\rAthena\ServerVersion<|||>3<|||>50067
-Servers\rAthena\LastConnect<|||>1<|||>2016-12-27 17:35:53
+Servers\rAthena\LastConnect<|||>1<|||>2016-12-27 22:16:40
