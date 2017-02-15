@@ -18,7 +18,7 @@ https://www.facebook.com/ValhallenRagnarok/
 En caso que no la tengas, esta bien.
 
 #Forma de uso
-1. Deberás compilar rAthena utilizando Visual Studio Express 2012. Descargar aquí: https://www.microsoft.com/es-cl/download/details.aspx?id=34673 . Si no sabes como más abajo esta una mini guía. (¿Quieres saber como Registrar el programa legalmente y gratis?: https://msdn.microsoft.com/es-es/library/ms246592(v=vs.80).aspx )
+1. Deberás compilar rAthena utilizando Visual Studio Express 2012. Descargar aquí: https://www.microsoft.com/es-cl/download/details.aspx?id=34673 . Si no sabes como compilar más abajo esta una mini guía. (¿Quieres saber como Registrar el programa legalmente y gratis?: https://msdn.microsoft.com/es-es/library/ms246592(v=vs.80).aspx )
 
 2. Deberás abrir rAsql con "mysql_start.bat", presionar cualquier tecla y aceptar el siguiente mensaje con "Yes", luego aparecerá una ventana con el "Session Manager", dale a "New" y ingresa los siguiente User: ragnarok password: ragnarok presiona "Open" y dale a "Yes". Listo, ahora esa ventana déjala minimizada y no la cierres si trabajas en el servidor local.
 
