@@ -1,4 +1,5 @@
 # Servidor Local de Pruebas Pre-configurado - vRO
+*** Sin soporte y descontinuado, última actualización y rev de rA Febrero de 2017, utilizelo solo para aprender y entender.- ***
 Un servidor local pre-configurado por mi, para que los nuevos miembros del equipo Valhallen Ragnarok puedan practicar y adentrarse al mundo de *Athena.
 Estos archivos estan compartidos de forma publica, sin embargo estan destinados principalmente para el Staff de Valhallen Ragnarok.
 https://www.facebook.com/ValhallenRagnarok/
@@ -43,5 +44,6 @@ Nota: Esta habilitado el doble login y la posibilidad de crearte cuentas con _F 
 4. Si el proceso de compilación es satisfactorio, tendrás una notificación de que tres nuevos archivos .EXE estarán en la carpeta raiz de tu emulador rAthena. 
 
 # Más?
-¿Dudas?, ¿Consultas? Escribeme en mi facebook:
-https://www.facebook.com/Darkness.vRO/
+¿Dudas?, ¿Consultas? Por favor realicelas en el foro de rAthena.
+Me encuentro retirado del Ragnarok Online definitivamente, lamento no poder ayudarte. ¡Si investigas mucho y piensas 3 veces las cosas estoy seguro que lograrás a solucionar cualquier problema con el emulador! Así lo hice yo en 2010... cuando comenzé.
+¡Hasta siempre leyendas!
